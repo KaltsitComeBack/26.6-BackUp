@@ -1,0 +1,13 @@
+GLM-4.6：
+主机：
+https://open.bigmodel.cn/api/paas/v4
+路径：
+/chat/completions
+
+DeepSeek：
+api：
+sk-d2dcf8afdee240b1ab9cab330004bb18
+
+DS for chatbox
+sk-2fb0dca26bce44f5b832fe1e9192b6ae
+
