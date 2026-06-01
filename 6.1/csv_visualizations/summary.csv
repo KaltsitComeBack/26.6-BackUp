@@ -1,0 +1,7 @@
+﻿item,value,metric
+Best tolerance_f1_tol1 case,A_1286056,0.9616
+Worst tolerance_f1_tol1 case,A_1174043,0.8556
+Lowest EB_beta0_error case,A_1174043,0.0
+Lowest EB_beta1_error case,A_1065847,0.0
+Best clDice patch,"(96, 96, 76)",0.9405775666236876
+Lowest memory ok patch,"(64, 64, 64)",3.163
